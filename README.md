@@ -1,2 +1,4 @@
-# sot
-a small open based browser. Packed with features.
+# sot, a lightweight browser.
+
+
+still in development, anything that you download is a ALPHA version.
